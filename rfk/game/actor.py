@@ -62,7 +62,7 @@ class Actor:
         """
         self._description = description
 
-    def set_position(self, position):
+    def set_position(self, position): 
         """Updates the actor's position to the given one.
         
         Args:
